@@ -1,3 +1,3 @@
 name: Betty
-	markdown: kramdown
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
